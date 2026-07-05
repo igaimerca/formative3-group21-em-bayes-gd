@@ -2,6 +2,14 @@
 
 Formative 3 Group 21 submission - Aime Igirimpuhwe ([@igaimerca](https://github.com/igaimerca))
 
+## Submission deliverables
+
+| Required | Link |
+|---|---|
+| Jupyter Notebook with all implementations (EM, Bayes, gradient descent - each with plots) | [Part 1](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/notebooks/part1_em_heights.ipynb) &middot; [Part 2](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/notebooks/part2_bayes_sentiment.ipynb) &middot; [Part 4](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/notebooks/part4_gradient_descent.ipynb) |
+| A neat PDF showing handwritten manual calculations of Part 3 | [part3_manual_gradient_descent.pdf](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/docs/part3_manual_gradient_descent.pdf) |
+| A PDF showing contributions | [Task allocation / contribution sheet](<https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/docs/BSE Group Assignments _ Task Sheet_Formative 3 _Cohort 2 Group 21 - 1.pdf>) |
+
 ## Quick links
 
 - [Part 3 - handwritten manual gradient descent derivation (PDF)](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/docs/part3_manual_gradient_descent.pdf)
