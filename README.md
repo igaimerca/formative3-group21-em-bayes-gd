@@ -4,18 +4,11 @@ Formative 3 Group 21 submission - Aime Igirimpuhwe ([@igaimerca](https://github.
 
 ## Submission deliverables
 
-| Required | Link |
-|---|---|
-| Jupyter Notebook with all implementations (EM, Bayes, gradient descent - each with plots) | [Part 1](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/notebooks/part1_em_heights.ipynb) &middot; [Part 2](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/notebooks/part2_bayes_sentiment.ipynb) &middot; [Part 4](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/notebooks/part4_gradient_descent.ipynb) |
-| A neat PDF showing handwritten manual calculations of Part 3 | [part3_manual_gradient_descent.pdf](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/docs/part3_manual_gradient_descent.pdf) |
-| A PDF showing contributions | [Task allocation / contribution sheet](<https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/docs/BSE Group Assignments _ Task Sheet_Formative 3 _Cohort 2 Group 21 - 1.pdf>) |
+The Jupyter notebooks with all the implementations - EM, Bayes, and gradient descent, each with its own plots - are in [`notebooks/`](notebooks/): [Part 1 - EM/GMM](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/notebooks/part1_em_heights.ipynb), [Part 2 - Bayesian sentiment](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/notebooks/part2_bayes_sentiment.ipynb), and [Part 4 - gradient descent](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/notebooks/part4_gradient_descent.ipynb).
 
-## Quick links
+The handwritten manual calculations for Part 3: [`part3_manual_gradient_descent.pdf`](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/docs/part3_manual_gradient_descent.pdf).
 
-- [Part 3 - handwritten manual gradient descent derivation (PDF)](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/docs/part3_manual_gradient_descent.pdf)
-- [Part 1 - EM/GMM notebook](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/notebooks/part1_em_heights.ipynb)
-- [Part 2 - Bayesian sentiment notebook](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/notebooks/part2_bayes_sentiment.ipynb)
-- [Part 4 - Gradient descent notebook](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/notebooks/part4_gradient_descent.ipynb)
+The [task sheet PDF](<https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/docs/BSE Group Assignments _ Task Sheet_Formative 3 _Cohort 2 Group 21 - 1.pdf>).
 - [Task allocation / contribution sheet (PDF)](<https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/docs/BSE Group Assignments _ Task Sheet_Formative 3 _Cohort 2 Group 21 - 1.pdf>)
 
 ## What's in here
