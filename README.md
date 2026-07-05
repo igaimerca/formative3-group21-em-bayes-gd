@@ -2,13 +2,21 @@
 
 Formative 3 Group 21 submission - Aime Igirimpuhwe ([@igaimerca](https://github.com/igaimerca))
 
+## Quick links
+
+- [Part 3 - handwritten manual gradient descent derivation (PDF)](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/docs/part3_manual_gradient_descent.pdf)
+- [Part 1 - EM/GMM notebook](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/notebooks/part1_em_heights.ipynb)
+- [Part 2 - Bayesian sentiment notebook](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/notebooks/part2_bayes_sentiment.ipynb)
+- [Part 4 - Gradient descent notebook](https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/notebooks/part4_gradient_descent.ipynb)
+- [Task allocation / contribution sheet (PDF)](<https://github.com/igaimerca/formative3-group21-em-bayes-gd/blob/main/docs/BSE Group Assignments _ Task Sheet_Formative 3 _Cohort 2 Group 21 - 1.pdf>)
+
 ## What's in here
 
 | Part | Deliverable | Where |
 |---|---|---|
 | 1 - EM for a Gaussian Mixture | Notebook: from-scratch EM on height data, tracking table, live classification demo | [`notebooks/part1_em_heights.ipynb`](notebooks/part1_em_heights.ipynb) |
 | 2 - Bayesian Probability | Notebook: keyword-based sentiment via hand-rolled Bayes' Theorem | [`notebooks/part2_bayes_sentiment.ipynb`](notebooks/part2_bayes_sentiment.ipynb) |
-| 3 - Manual Gradient Descent | Full worked derivation (chain rule, no skipped steps) | [`docs/part3_manual_gradient_descent.md`](docs/part3_manual_gradient_descent.md) |
+| 3 - Manual Gradient Descent | Full worked derivation (chain rule, no skipped steps) | [`docs/part3_manual_gradient_descent.pdf`](docs/part3_manual_gradient_descent.pdf) |
 | 4 - Gradient Descent in Code | Notebook: same problem in Python, SciPy-checked gradient, convergence plots | [`notebooks/part4_gradient_descent.ipynb`](notebooks/part4_gradient_descent.ipynb) |
 
 Shared logic lives in `src/` and is imported by the notebooks rather than duplicated inside them:
